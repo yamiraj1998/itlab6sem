@@ -3,6 +3,7 @@
 <link rel="stylesheet" type="text/css" href="p2.css"/>
 </head>
 <body>
+<title>"hello"</title>
 <div class="background">
 <div class="transbox"> 
 <p> this is transparent box placed in the transbox.</p>
